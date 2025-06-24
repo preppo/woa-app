@@ -1,0 +1,55 @@
+services:
+  mongo:
+    image: mongo:5.0
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - revolt
+
+  redis:
+    image: redis:7.0-alpine
+    networks:
+      - revolt
+
+  autumn:
+    image: ghcr.io/revoltchat/autumn:latest
+
+  january:
+    image: ghcr.io/revoltchat/january:latest
+
+  revolt:
+    image: ghcr.io/revoltchat/server:latest
+    depends_on:
+      - mongo
+      - redis
+    environment:
+      DATABASE_URL: mongodb://mongo:27017
+      REDIS_URL: redis://redis:6379
+      AUTUMN_URL: http://autumn:8000
+      JANUARY_URL: http://january:8000
+      PUBLIC_URL: http://localhost:9000
+    volumes:
+      - ./Revolt.toml:/etc/revolt.toml:ro
+    networks:
+      - revolt
+
+  revite:
+    image: ghcr.io/revoltchat/client:master
+    depends_on:
+      - revolt
+    ports:
+      - "9000:9000"
+    environment:
+      VITE_API_URL: http://localhost:9000
+      PUBLIC_URL: http://localhost:9000
+      REVOLT_PUBLIC_URL
+    volumes:
+      - ./revite/public:/app/dist:ro
+    networks:
+      - revolt
+
+networks:
+  revolt:
+
+volumes:
+  mongo_data:
