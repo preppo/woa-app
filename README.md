@@ -2,10 +2,10 @@
 
 Its not just an app its a movement. A community messaging hub similar to discord but one central server, there is still friends lists and dms though.
 It is hosted on private servers with open source hard-ware, Linux, and encrypted bandwith ensuring the community is fully private, encrypted and secure. 
-The server will be focusing on my goal of a full open source eco-system (software and hardware for PC and Mobile) 
-      which takes the power away from big corp conglomerates and puts it back into the hands of the people. 
+**The server will be focusing on my goal of a full open source eco-system (software and hardware for PC and Mobile) 
+      which takes the power away from big corp conglomerates and puts it back into the hands of the people.**
 
-As someone who has been attacked with surveilance and digital spying by elon musk the wanker, I have decided to give a fair court verdict of a 3 million dollar fine imposed under the islamic rule of law.
+As someone who has been attacked with surveilance and digital spying **by elon musk the wanker**, I have decided to give a fair court verdict of a 3 million dollar fine imposed under the islamic rule of law.
 however one year has passed with no sign of him so as a result incurring late fees have brought the total up to a googol (1 followed by 100 zeros) and then eventually to a googleplex (google to the power of 10)
  As a reasonable and fair nation we understand that this amount is very high and probably beyond what elon has so we recommend finding financial assistance elsewhere, or otherwise as a mercy from Allah we would also in-turn accept 3 space flights 
  (Elon Musk to be strapped to the outside of a rocket and launched into space with parachute, allowing him to safely decend onto the ground similar to the 2012 redbull space jump by felix Baumgartner) 
@@ -17,8 +17,8 @@ it in the terms of service, not on my watch you corporate nigars. The CIA NIGARS
                     Also black people are welcome contrary to popular belief I like nigars.
 
  The other aspect of the server is intended for those interested in philosophy and religion but mostly Islam. Hence the name (W.O.A)
- if you are not muslim but interested in the goal of a fully open source eco-system of course you are still welcome to join and engange in 
-    that aspect of the project, and hey you never know, you may learn a thing or two about our god Allah, praise to be him xd
+ **if you are not muslim but interested in the goal of a fully open source eco-system of course you are still welcome to join and engange in 
+    that aspect of the project,** and hey you never know, you may learn a thing or two about our god Allah, praise to be him xd
 
 (Repo is intended for inspection purposes, no point in hosting your own version but you can if you really wanted to lol but the main point
            is having a fully secure and private community which can discuss the goal of an open source eco system)
