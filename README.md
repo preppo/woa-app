@@ -16,8 +16,8 @@ software can truly own their devices which they pay hard earned money for. imagi
 it in the terms of service, not on my watch you corporate nigars. The CIA NIGARS are probably paying them extra to to keep the back doors too I would imagine.
                     Also black people are welcome contrary to popular belief **I like nigars.**
 
- The other aspect of the server is intended for those interested in philosophy and religion but mostly Islam. Hence the name (W.O.A)
- **if you are not muslim but interested in the goal of a fully open source eco-system of course you are still welcome to join and engange in 
+ The other aspect of the server is intended for those interested in finding like-minded people trying to becoming the best versions of themselves in fields such as Personal growth, Fiance, Philosophy 
+ and religion but mostly Islam. Hence the name (W.O.A) **if you are not muslim but interested in the goal of a fully open source eco-system of course you are still welcome to join and engange in 
     that aspect of the project,** and hey you never know, you may learn a thing or two about our god Allah, praise to be him xd
 
 (Repo is intended for inspection purposes, no point in hosting your own version but you can if you really wanted to lol but the main point
