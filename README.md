@@ -14,14 +14,14 @@ however one year has passed with no sign of him so as a result incurring late fe
 But arguably more notably, in the meantime  I have also made it my goal to fully create an open source eco-system to create a better tech world where people who purchase devices and 
 software can truly own their devices which they pay hard earned money for. imagine paying for a device and then it spys on you without even disclosing
 it in the terms of service, not on my watch you corporate nigars. The CIA NIGARS are probably paying them extra to to keep the back doors too I would imagine.
-                    Also black people are welcome contrary to popular belief I like nigars.
+                    Also black people are welcome contrary to popular belief **I like nigars.**
 
  The other aspect of the server is intended for those interested in philosophy and religion but mostly Islam. Hence the name (W.O.A)
  **if you are not muslim but interested in the goal of a fully open source eco-system of course you are still welcome to join and engange in 
     that aspect of the project,** and hey you never know, you may learn a thing or two about our god Allah, praise to be him xd
 
 (Repo is intended for inspection purposes, no point in hosting your own version but you can if you really wanted to lol but the main point
-           is having a fully secure and private community which can discuss the goal of an open source eco system)
+           is having a fully secure and private community which can discuss and work together on the goal of an open source eco system)
 
 
 revolt fork with extra changes to better suit w.o.a specific use cases so shout out to those nigars
