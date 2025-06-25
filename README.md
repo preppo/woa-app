@@ -20,3 +20,4 @@ imagine paying for a device and then it spys on you without even disclosing it i
 revolt fork with extra changes to better suit w.o.a specific use cases so shout out to those nigars
 
              app is non profit, they released it publicly. thats quite fair imo 
+![ezcv logo](https://github.com/preppo/woa-app/blob/main/possible%20logo.png?raw=true)
