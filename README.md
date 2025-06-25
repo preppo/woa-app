@@ -1,6 +1,6 @@
                                           WOA-APP SOURCE CODE.
 
-Its not just an app its a movement. A community messaging hub similar to discord but one central server, there is still friends lists and dms though.
+***Its not just an app its a movement.*** A community messaging hub similar to discord but one central server, there is still friends lists and dms though.
 It is hosted on private servers with open source hard-ware, Linux, and encrypted bandwith ensuring the community is fully private, encrypted and secure. 
 **The server will be focusing on my goal of a full open source eco-system (software and hardware for PC and Mobile) 
       which takes the power away from big corp conglomerates and puts it back into the hands of the people.**
