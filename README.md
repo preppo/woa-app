@@ -27,5 +27,6 @@ it in the terms of service, not on my watch you corporate nigars. The CIA NIGARS
 revolt fork with extra changes to better suit w.o.a specific use cases so shout out to those nigars
 
              app is non profit, they released it publicly. thats quite fair imo 
-[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://github.com/preppo/woa-appDRAFT/blob/main/possible%20logo.png?raw=true/)
+
+https://github.com/preppo/woa-appDRAFT/blob/main/possible%20logo.png?raw=true
 
