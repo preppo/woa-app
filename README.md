@@ -28,5 +28,5 @@ revolt fork with extra changes to better suit w.o.a specific use cases so shout 
 
              app is non profit, they released it publicly. thats quite fair imo 
 
-https://github.com/preppo/woa-appDRAFT/blob/main/possible%20logo.png?raw=true
+![Image](https://github.com/user-attachments/assets/cc6c8a69-cde5-42b8-b005-6a5217bc8c78)
 
